@@ -1,5 +1,5 @@
 price=15
 quantity = 10
-total = 150
+discount = 0.1
 
-print(price*quantity)
+print(price*quantity*discount)
