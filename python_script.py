@@ -1,4 +1,4 @@
 salary = 1000
-count = 10
+count = 100
 
 print(salary*count)
